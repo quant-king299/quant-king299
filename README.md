@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quant-king299&show_icons=true&theme=tokyonight)](https://www.ptqmt.com)
 
 [![Website](https://img.shields.io/badge/Website-ptqmt.com-blue)](https://www.ptqmt.com)
-[![微信公众号](https://img.shields.io/badge/公众号-量化交易-green)](https://www.ptqmt.com)
+[![微信公众号](https://img.shields.io/badge/公众号-量化交易-green)](https://mp.weixin.qq.com/s/7tRKWh1kAlYOsqWEEXgvgg)
 
 [![Python](https://img.shields.io/badge/Python-量化-blue)](https://www.python.org)
 [![QMT](https://img.shields.io/badge/QMT-量化交易-orange)](https://www.gtja.com/)
