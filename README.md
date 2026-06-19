@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-ptqmt.com-blue)](https://www.ptqmt.com)
 [![微信公众号](https://img.shields.io/badge/公众号-王者quant-green)](https://mp.weixin.qq.com/s/7tRKWh1kAlYOsqWEEXgvgg)
 
-[![Python](https://img.shields.io/badge/Python-量化-blue)](https://www.python.org)
+[![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-王者quant-blue)](https://space.bilibili.com/3546954682337740)
 [![QMT](https://img.shields.io/badge/QMT-量化交易-orange)](https://www.gtja.com/)
 [![量化](https://img.shields.io/badge/专业-量化策略-red)]()
 ![](https://img.shields.io/badge/昵称-王者quant-yellow)
