@@ -16,5 +16,3 @@
 </div>
 
 ![头像](image/头像.svg)
-
-![Visitor Count](https://profile-counter.glitch.me/quant-king299/count.svg)
