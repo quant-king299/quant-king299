@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-![王者quant][github-sub-title:img]
+![王者quant](https://readme-typing-svg.herokuapp.com/?font=Segoe+Script&center=true&vCenter=true&lines=量化交易;王者quant;Python量化专家;QMT+PTrade量化专家)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quant-king299&show_icons=true&theme=tokyonight)](https://www.ptqmt.com)
 
@@ -18,5 +18,3 @@
 ![头像](image/头像.svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/quant-king299/count.svg)
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=量化交易;王者quant;Python量化专家;QMT PTrade量化专家
