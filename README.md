@@ -19,4 +19,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/quant-king299/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=量化交易;王者quant;Python量化专家;QMT PTrade量化专家.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=量化交易;王者quant;Python量化专家;QMT PTrade量化专家
